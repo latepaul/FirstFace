@@ -1,0 +1,30 @@
+{
+    "author": "latepaul@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "firstface",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "FirstFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "350d5f26-49db-403b-b658-48ab35ed38fb",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
